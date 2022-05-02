@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import "react-notifications/lib/notifications.css";
-// import "./notificationsCustom.css";
+// import "react-notifications/lib/notifications.css";
+import "./notificationsCustom.css";
 import {
   NotificationContainer,
   NotificationManager,
